@@ -4,7 +4,7 @@ botocore==1.18.2
 certifi==2020.6.20
 chardet==3.0.4
 defusedxml==0.6.0
-Django==3.0.7
+Django==3.1.12
 django-allauth==0.42.0
 django-crispy-forms==1.9.2
 django-rest-auth==0.9.5
